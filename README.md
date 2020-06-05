@@ -1,5 +1,7 @@
 # ISLR_Python
-Python code for ISLR Book 
+Python code for ISLR Book
+
+Introduction To Statistical Thinking - Springer Texts in Statistics by Gareth James,Daniela Witten, Trevor Hastie, Robert Tibshirani
 
 
 
